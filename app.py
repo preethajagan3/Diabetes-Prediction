@@ -43,3 +43,4 @@ def predict():
 if __name__ == '__main__':
     app.run(debug=True)
     print("We deployed successfully!!")
+    print('done')
